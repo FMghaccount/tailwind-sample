@@ -1,8 +1,5 @@
-# Tailwind Manage Landing Page
-
-This is the project from my 2022 Tailwind Crash Course on YouTube.
-
-![Alt text](/img/screen.png?raw=true)
+# tailwind-sample
+landing page is from [Traversy media](https://www.youtube.com/watch?v=dFgzHOX84xQ)
 
 # Usage
 
