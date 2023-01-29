@@ -1,0 +1,29 @@
+/* @font-face {
+    font-family: 'yekanbakh';
+    font-style: normal;
+    font-weight: 400;
+    src: url('./yekanbakh/Yekan-Bakh-FA-04-Regular.eot');
+    src: url('./yekanbakh/Yekan-Bakh-FA-04-Regular.eot#iefix') format('embedded-opentype'),
+    url('./yekanbakh/Yekan-Bakh-FA-04-Regular.woff') format('woff'),
+    url('./yekanbakh/Yekan-Bakh-FA-04-Regular.ttf') format('truetype');
+  } */
+/* 
+  @font-face{
+    font-family:'iranyekan';
+    font-style:normal;
+    font-weight:400;
+    src:url(./iranyekan/weight-400/iranyekanwebregularfanum.eot);
+    src:url(./iranyekan/weight-400/iranyekanwebregularfanum.eot?#iefix) format("embedded-opentype"),
+    url(./iranyekan/weight-400/iranyekanwebregularfanum.woff) format("woff"),
+    url(./iranyekan/weight-400/iranyekanwebregularfanum.ttf) format("truetype")} */
+
+    @font-face {
+      font-family: 'Vazir';
+      src: url('./vazir/Vazir.eot');
+      src: url('./vazir/Vazir.eot?#iefix') format('embedded-opentype'),
+           url('./vazir/Vazir.woff2') format('woff2'),
+           url('./vazir/Vazir.woff') format('woff'),
+           url('./vazir/Vazir.ttf') format('truetype');
+      font-weight: normal;
+      font-style: normal;
+  }
