@@ -1,12 +1,15 @@
 module.exports = {
-  content: ['./*.html'],
+  content: ['./build/*.html'],
   theme: {
-    // screens: {
-    //   sm: '480px',
-    //   md: '768px',
-    //   lg: '976px',
-    //   xl: '1440px',
-    // },
+    screens: {
+      sm: '480px',
+      md: '768px',
+      lg: '976px',
+      xl: '1440px',
+      '2xl': '1536px',
+      '3xl': '1600px',
+      '4xl': '1900px',
+    },
     extend: {
       colors: {
         brightRed: 'hsl(12, 88%, 59%)',
