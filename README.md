@@ -1,5 +1,7 @@
 # tailwind-sample
-landing page is from [Traversy media](https://www.youtube.com/watch?v=dFgzHOX84xQ)
+landing page is from [Traversy media](https://www.youtube.com/watch?v=dFgzHOX84xQ) <br/>
+
+live demo: [Sample](https://tailwind-farzin.onrender.com/)
 
 # Usage
 
