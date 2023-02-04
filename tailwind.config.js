@@ -5,10 +5,10 @@ module.exports = {
       sm: '480px',
       md: '768px',
       lg: '976px',
-      xl: '1440px',
-      '2xl': '1536px',
-      '3xl': '1600px',
-      '4xl': '1900px',
+      xl: '1280px',
+      '2xl': '1440px',
+      '3xl': '1860px',
+      '4xl': '2040px',
     },
     extend: {
       colors: {
